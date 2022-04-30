@@ -23,7 +23,7 @@ Na aplicação de **análise de dados**, comumente temos 4 tipos utilizados no m
   A análise descritiva é, portanto, o tipo de análise mais simples e rápida de executar, pois emprega apenas cálculos padronizados (que podem ser automatizados), como a média, [variância](https://pt.wikipedia.org/wiki/Vari%C3%A2ncia), entre outros, além de [gráficos](https://pt.wikipedia.org/wiki/Gr%C3%A1fico), [diagramas](https://pt.wikipedia.org/wiki/Diagrama) e etc.
 
   Essas visualizações, originadas da análise descritiva, são a principal matéria-prima dos dashboards de indicadores-chave de desempenho (em Inglês, Key Performance Indicator ou apenas [KPI](https://pt.wikipedia.org/wiki/Indicador-chave_de_desempenho)).
-   <br><br>
+<br><br>
 
 - Análise diagnóstica
 
@@ -36,7 +36,7 @@ Na aplicação de **análise de dados**, comumente temos 4 tipos utilizados no m
   Por exemplo, você pode oferecer o programa de fidelidade para alguns usuários (cenário A), mas não para outros (cenário B), e comparar a média de acessos. Além de ser trabalhoso fazer isso, há situações que não podem ser controladas, como a quantidade de concorrentes e a depreciação média do produto.
 
   É nesse cenário que surge o bordão "~[correlação](https://pt.wikipedia.org/wiki/Correla%C3%A7%C3%A3o) não implica causalidade": correlação é uma característica dos dados (uma métrica de associação, por assim dizer). Mas ela não pode ser imediatamente associada a uma causa, sem uma análise diagnóstica adequada, que envolve a manipulação de cenários controlados.
-   <br><br>
+<br><br>
 
 - Análise preditiva
 
@@ -53,7 +53,7 @@ Na aplicação de **análise de dados**, comumente temos 4 tipos utilizados no m
   Um exemplo bem conhecido de análise preditiva é aquela que os bancos fazem ao identificar riscos de investimento, quando o empréstimo efetivamente não foi feito, mas o modelo desenvolvido pelo banco é capaz de prever o resultado.
 
   Contudo, essa previsão nem sempre se concretiza. Grande parte do trabalho do analista de dados é justamente otimizar essa incerteza.
-   <br><br>
+<br><br>
 
 - Análise prescritiva
 
@@ -65,5 +65,5 @@ Na aplicação de **análise de dados**, comumente temos 4 tipos utilizados no m
 
   Essa é a análise prescritiva e, como você já deduziu, é a etapa mais complexa, pois demanda conhecimento profundo sobre o sistema.
   
-  
+<br><br>
 Para atividade prática, de **Avaliação de Modelos: Preditivos & Descritivos**, iremos utilizar o `Python` e o `R` no ambiente do _jupyter notebook_.
