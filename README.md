@@ -64,3 +64,6 @@ Na aplicação de **análise de dados**, comumente temos 4 tipos utilizados no m
   Outro exemplo, fora do mundo dos negócios, é o dos sistemas de controle da SpaceX, que analisam continuamente o movimento do foguete, para prescrever ações de seu motor. Este trabalho tem o objetivo de trazê-lo em segurança para o solo.
 
   Essa é a análise prescritiva e, como você já deduziu, é a etapa mais complexa, pois demanda conhecimento profundo sobre o sistema.
+  
+  
+Para atividade prática, de **Avaliação de Modelos: Preditivos & Descritivos**, iremos utilizar o `Python` e o `R` no ambiente do _jupyter notebook_.
